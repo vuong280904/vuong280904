@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Bui Thanh Vuong</h1>
+<h3 align="center">Final-year IT student | ソフトウェア学専攻</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub;AI+%7C+Web+%7C+Mobile+Developer;Always+learning+and+building&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  I am passionate about building real-world applications using AI, Web, and Mobile technologies. <br/>
+  I enjoy learning new things, solving problems, and improving every day.
+</p>
+
+<p align="center">
+  🌐 Portfolio: <a href="https://vuong280904.github.io/">vuong280904.github.io</a>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wuny.24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vuongbui.28092004@gmail.com) 
